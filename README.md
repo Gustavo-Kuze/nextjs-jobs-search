@@ -24,7 +24,7 @@ yarn
 
 ### How to start the project
 
-Run the following commando on your terminal:
+Run the following command on your terminal:
 
 ```
 yarn dev
