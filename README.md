@@ -1,4 +1,4 @@
-# NextJS Jobs Search - zippia-frontend
+# NextJS Jobs Search
 
 <img width="600" src="https://cdn.discordapp.com/attachments/693151307116314736/996862593002127400/unknown.png" />
 
