@@ -8,21 +8,12 @@ import {
   Flex,
   HStack,
   Spacer,
-  useOutsideClick,
 } from '@chakra-ui/react';
 import NextLink from 'next/link';
 
 const NavBar = () => {
-  const [isOpen, setIsOpen] = useState(false);
   const bg = useColorModeValue("white", "gray.800");
   const ref = React.useRef();
-  const categoriesPopoverRef = React.useRef();
-
-  useOutsideClick({
-    // @ts-ignore
-    ref: categoriesPopoverRef,
-    handler: () => setIsOpen(false),
-  });
 
   const cl = useColorModeValue("gray.800", "white");
 
