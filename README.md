@@ -4,7 +4,7 @@
 
 ## Demo
 
-The app is hosted on Vercel and you can test it out by clicking here: // TODO...
+The app is hosted on Vercel and you can test it out by clicking [here](https://nextjs-jobs-search.vercel.app/)
 
 ____
 
